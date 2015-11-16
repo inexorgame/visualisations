@@ -484,9 +484,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="560.1472"
-     inkscape:cy="212.58005"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="630.02055"
+     inkscape:cy="293.84241"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -754,7 +754,7 @@
       </g>
       <path
          transform="translate(-3.3928572,448.96932)"
-         d="m 139.28571,131.78571 a 6.0714288,6.0714288 0 1 1 -12.14286,0 6.0714288,6.0714288 0 1 1 12.14286,0 z"
+         d="m 139.28571,131.78571 c 0,3.35315 -2.71827,6.07142 -6.07143,6.07142 -3.35316,0 -6.07143,-2.71827 -6.07143,-6.07142 0,-3.35316 2.71827,-6.07143 6.07143,-6.07143 3.35316,0 6.07143,2.71827 6.07143,6.07143 z"
          sodipodi:ry="6.0714288"
          sodipodi:rx="6.0714288"
          sodipodi:cy="131.78571"
@@ -787,7 +787,7 @@
          y="665.94879"
          id="tspan4942">in Cube2: Sauerbraten.</tspan></text>
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:1.22359955000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-40)"
+       style="fill:none;stroke:#b3b3b3;stroke-width:1.22359955000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-40)"
        d="m 281.98844,814.9233 -102.68623,0"
        id="path3107-1"
        inkscape:connector-curvature="0" />
@@ -803,7 +803,7 @@
          x="285.40082"
          y="817.9187">x</tspan></text>
     <path
-       style="fill:#808080;stroke:#cccccc;stroke-width:1.22359955000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-40)"
+       style="fill:#808080;stroke:#ff0000;stroke-width:1.22359955000000010;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Lstart-40)"
        d="m 229.16441,769.00404 0,90.22963"
        id="path3107-4-7"
        inkscape:connector-curvature="0" />
