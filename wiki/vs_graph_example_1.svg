@@ -17,8 +17,8 @@
    inkscape:version="0.92.1 r15371"
    sodipodi:docname="vs_graph_example_1.svg"
    inkscape:export-filename="C:\Users\acer\Desktop\visualisations\visualisations\wiki\vs_graph_example_1.png"
-   inkscape:export-xdpi="80.440002"
-   inkscape:export-ydpi="80.440002">
+   inkscape:export-xdpi="78.550003"
+   inkscape:export-ydpi="78.550003">
   <defs
      id="defs2">
     <marker
@@ -185,8 +185,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="92.047619"
-     inkscape:cy="135.21714"
+     inkscape:cx="299.28904"
+     inkscape:cy="27.24106"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -236,7 +236,7 @@
        id="rect4517" />
     <path
        style="fill:none;stroke:#005b00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
-       d="m 62.39424,137.65706 c 12.027129,0 17.363858,-13.96054 31.821447,-13.96054"
+       d="m 70.184922,115.92665 c 12.027129,0 2.670034,7.91483 17.127624,7.91483"
        id="path6708"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -248,29 +248,6 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="101.05003"
-       y="114.66474"
-       id="text4861"><tspan
-         id="tspan4859"
-         sodipodi:role="line"
-         x="101.05003"
-         y="114.66474"
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">Function</tspan></text>
-    <rect
-       id="rect4863"
-       width="35.357651"
-       height="25.14588"
-       x="92.324638"
-       y="110.50771"
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4865"
-       d="M 92.205203,119.84421 H 127.68771"
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="40.91597"
        y="116.91196"
        id="text4869"><tspan
@@ -279,13 +256,6 @@
          x="40.91597"
          y="116.91196"
          style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">OnPlayerPressButton</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4875"
-       width="2.3109317"
-       height="2.3109317"
-       x="61.331181"
-       y="136.45645" />
     <g
        id="g4901"
        transform="translate(0.75595238,-11.792857)">
@@ -333,88 +303,6 @@
          width="2.3109317"
          id="rect4887"
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="56.666801"
-       y="138.66399"
-       id="text4891"><tspan
-         id="tspan4889"
-         sodipodi:role="line"
-         x="56.666801"
-         y="138.66399"
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">out</tspan></text>
-    <text
-       id="text4915"
-       y="118.26784"
-       x="102.58138"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="118.26784"
-         x="102.58138"
-         sodipodi:role="line"
-         id="tspan4913">OpenDoor</tspan></text>
-    <rect
-       y="131.24469"
-       x="123.60498"
-       height="2.3109317"
-       width="2.3109317"
-       id="rect4917"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text4921"
-       y="133.45222"
-       x="118.9406"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="133.45222"
-         x="118.9406"
-         sodipodi:role="line"
-         id="tspan4919">out</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4923"
-       width="2.3109317"
-       height="2.3109317"
-       x="94.925346"
-       y="122.58897" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="99.229111"
-       y="124.7965"
-       id="text4927"><tspan
-         id="tspan4925"
-         sodipodi:role="line"
-         x="99.229111"
-         y="124.7965"
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">in</tspan></text>
-    <g
-       id="g6116"
-       transform="translate(49.166799,-9.4389786)">
-      <text
-         id="text6097"
-         y="143.15257"
-         x="53.230568"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-           y="143.15257"
-           x="53.230568"
-           sodipodi:role="line"
-           id="tspan6095">door</tspan></text>
-      <rect
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect6099"
-         width="2.3109317"
-         height="2.3109317"
-         x="45.758549"
-         y="140.89503"
-         rx="1.1554658"
-         ry="1.1554658" />
     </g>
     <text
        id="text6120"
@@ -474,7 +362,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path4598"
-       d="m 62.574596,171.60486 c 12.027129,0 17.172646,-38.86723 31.630235,-38.86723"
+       d="m 62.574596,171.60486 c 12.027129,0 16.79467,-32.67787 31.252259,-32.67787"
        style="fill:none;stroke:#be0000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4602)" />
     <text
        id="text5026"
@@ -510,42 +398,6 @@
          x="157.47774"
          y="137.49538"
          style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">PlaySound</tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5036"
-       width="2.3109317"
-       height="2.3109317"
-       x="178.31703"
-       y="150.14351" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="173.65265"
-       y="152.35104"
-       id="text5040"><tspan
-         id="tspan5038"
-         sodipodi:role="line"
-         x="173.65265"
-         y="152.35104"
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">out</tspan></text>
-    <rect
-       y="141.48778"
-       x="149.63741"
-       height="2.3109317"
-       width="2.3109317"
-       id="rect5042"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       id="text5046"
-       y="143.69531"
-       x="153.94116"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         y="143.69531"
-         x="153.94116"
-         sodipodi:role="line"
-         id="tspan5044">in</tspan></text>
     <g
        id="g5054"
        transform="translate(103.87885,9.4598304)">
@@ -574,7 +426,7 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path5064"
-       d="m 124.95803,132.50325 c 12.02713,0 9.44221,10.18933 23.8998,10.18933"
+       d="m 131.7462,123.728 c 12.02713,0 -4.16133,12.75056 10.29626,12.75056"
        style="fill:none;stroke:#005b00;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5068)" />
     <text
        xml:space="preserve"
@@ -634,5 +486,83 @@
          x="94.231674"
          sodipodi:role="line"
          id="tspan5033">'door_open'</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39821777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.202745,113.93556 v 3.98219 l 3.982177,-1.9911 z"
+       id="path4973"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100.9164"
+       y="121.07921"
+       id="text4861"><tspan
+         id="tspan4859"
+         sodipodi:role="line"
+         x="100.9164"
+         y="121.07921"
+         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332">Function</tspan></text>
+    <rect
+       id="rect4863"
+       width="35.357651"
+       height="25.14588"
+       x="92.191002"
+       y="116.92218"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4865"
+       d="M 92.071568,126.25868 H 127.55408"
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4915"
+       y="124.6823"
+       x="102.44775"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         y="124.6823"
+         x="102.44775"
+         sodipodi:role="line"
+         id="tspan4913">OpenDoor</tspan></text>
+    <g
+       id="g6116"
+       transform="translate(49.033164,-3.0245099)">
+      <text
+         id="text6097"
+         y="143.15257"
+         x="53.230568"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.2;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:3.52777767px;line-height:0.30000001;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="143.15257"
+           x="53.230568"
+           sodipodi:role="line"
+           id="tspan6095">door</tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48035815;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6099"
+         width="2.3109317"
+         height="2.3109317"
+         x="45.758549"
+         y="140.89503"
+         rx="1.1554658"
+         ry="1.1554658" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path4806"
+       d="m 88.118846,121.73692 v 3.98219 l 3.982177,-1.9911 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39821777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5187"
+       d="m 127.76403,121.73691 v 3.98219 l 3.98217,-1.9911 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39821777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39821777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.93032,134.51898 v 3.98219 l 3.98217,-1.9911 z"
+       id="path5202"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
