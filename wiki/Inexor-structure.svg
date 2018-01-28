@@ -154,14 +154,13 @@
     <g onmouseout="HideTooltip(evt)" id="y.node.8" onmousemove="ShowTooltip(evt)">
       <a target="_blank" xlink:type="simple" xlink:href="./Inexor-Tree" xlink:show="new">
         <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
-          <rect fill="none" x="265.75" width="117.5" height="52.5" y="-128.2812"/>
+          <rect fill="none" x="265.75" width="117.5" height="52.5" y="-128.2812"> <title>The Inexor Tree</title> </rect>
         </g>
         <g>
           <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-80,844)" stroke-linecap="butt">
-            <text x="297.8193" xml:space="preserve" y="-111.8457" stroke="none"><div href="./Inexor-Tree">Scripting</div></text>
+            <text x="297.8193" xml:space="preserve" y="-111.8457" stroke="none"><a href="https://github.com/inexorgame/inexor-core/wiki/Inexor-Tree">Scripting</a></text>
             <text x="301.8271" xml:space="preserve" y="-97.877" stroke="none">Binding</text>
             <text x="290.8496" xml:space="preserve" y="-83.9082" stroke="none">Framework</text>
-            <title>The Inexor Tree</title>
           </g>
         </g>
       </a>
