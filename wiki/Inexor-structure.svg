@@ -12,6 +12,9 @@
       <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3">
         <path d="M0 0 L0 182 L489 182 L489 0 Z"/>
       </clipPath>
+      <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4">
+        <path d="M0 0 L0 167 L489 167 L489 0 Z"/>
+      </clipPath>
       <script type="text/ecmascript"><![CDATA[      var SVGDocument = null;
       var SVGRoot = null;
       var TrueCoords = null;
@@ -96,7 +99,7 @@
       </g>
     </g>
     <g id="y.node.3">
-      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="5" stroke-miterlimit="1.45">
+      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="4" stroke-miterlimit="1.45">
         <rect fill="none" x="421.25" width="117.5" height="52.5" y="465.8125"/>
       </g>
       <g>
@@ -319,7 +322,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.39">
+    <g id="y.node.23">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="3" stroke-miterlimit="1.45">
         <rect fill="none" x="265.75" width="117.5" height="52.5" y="-396.25"/>
       </g>
@@ -431,7 +434,7 @@
         <path d="M291.1015 -423.8148 L280.0745 -416.9298 L285.8879 -416.4787 L288.2257 -411.1369 Z" stroke="none"/>
       </g>
     </g>
-    <g id="y.node.23">
+    <g id="y.node.24">
       <g>
         <g font-size="17px" stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" font-weight="bold" stroke-miterlimit="1.45">
           <text x="280.647" xml:space="preserve" y="-810.9984" stroke="none">Frontend</text>
@@ -441,7 +444,7 @@
         <rect x="95.25" y="-828.7781" fill="none" width="458.5" rx="4" ry="4" height="305.0141"/>
       </g>
     </g>
-    <g id="y.node.24">
+    <g id="y.node.25">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
         <rect fill="none" x="271.25" width="117.5" height="52.5" y="-597.5391"/>
       </g>
@@ -451,7 +454,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.25">
+    <g id="y.node.26">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
         <rect fill="none" x="121.25" width="117.5" height="52.5" y="-789.9891"/>
       </g>
@@ -461,7 +464,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.26">
+    <g id="y.node.27">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,204,0)" stroke-miterlimit="1.45">
         <rect fill="none" x="271.25" width="117.5" height="52.5" y="-789.9891"/>
       </g>
@@ -472,7 +475,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.27">
+    <g id="y.node.28">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
         <rect fill="none" x="421.25" width="117.5" height="52.5" y="-789.9891"/>
       </g>
@@ -483,7 +486,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.28">
+    <g id="y.node.29">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="3" stroke-miterlimit="1.45">
         <rect fill="none" x="241.25" width="117.5" height="52.5" y="-677.4891"/>
       </g>
@@ -493,7 +496,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.29">
+    <g id="y.node.30">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="3" stroke-miterlimit="1.45">
         <rect fill="none" x="331.25" width="117.5" height="52.5" y="-707.4891"/>
       </g>
@@ -510,7 +513,7 @@
       </g>
     </g>
     <g id="y.edge.22">
-      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="silver" stroke-miterlimit="1.45">
+      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="gray" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="gray" stroke-miterlimit="1.45">
         <path fill="none" d="M502.4258 -326.2367 L503.5238 -327.5344 L509.0951 -334.1953 L514.4598 -340.7076 L519.5768 -347.0417 L524.4048 -353.168 L528.9023 -359.0566 L533.0283 -364.678 L536.7413 -370.0023 L540 -375 L542.7761 -379.6536 L545.0931 -383.9951 L546.9872 -388.0689 L548.4947 -391.9193 L549.652 -395.5906 L550.4955 -399.1272 L551.0615 -402.5734 L551.3862 -405.9735 L551.5062 -409.3719 L551.4575 -412.8129 L551.2767 -416.3408 L551 -420 L550.6387 -423.8288 L550.1033 -427.8419 L549.2796 -432.0477 L548.0529 -436.455 L546.3089 -441.0724 L543.933 -445.9085 L540.8109 -450.9719 L536.8281 -456.2712 L531.87 -461.815 L525.8223 -467.612 L518.5704 -473.6708 L510 -480 L500.0355 -486.6029 L488.7574 -493.4615 L476.2852 -500.5527 L462.7381 -507.8532 L448.2357 -515.3396 L432.8973 -522.9888 L416.8424 -530.7776 L400.1905 -538.6826 L393.8225 -541.6558"/>
         <path d="M386.5737 -545.0403 L395.3316 -535.433 L394.7286 -541.2327 L399.5623 -544.494 Z" stroke="none"/>
       </g>
@@ -545,12 +548,6 @@
         <path d="M161.0226 -737.0974 L153.4348 -726.5416 L158.9843 -728.3312 L163.175 -724.2768 Z" stroke="none"/>
       </g>
     </g>
-    <g id="y.edge.8">
-      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="gray" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="gray" stroke-miterlimit="1.45">
-        <path fill="none" d="M130.4635 -326.2697 L125.3438 -331.9062 L119.4238 -340.1862 L114.1296 -349.8333 L109.5508 -361.043 L105.7766 -374.0104 L102.8966 -388.931 L101 -406 L100.1466 -425.3477 L100.2766 -446.8438 L101.3008 -470.293 L103.1296 -495.5 L105.6738 -522.2695 L108.8438 -550.4062 L112.5502 -579.7148 L116.7037 -610 L121.2148 -641.0664 L125.9942 -672.7188 L130.9524 -704.7617 L134.7625 -729.0963"/>
-        <path d="M136 -737 L129.2039 -725.9178 L134.6078 -728.1083 L139.0836 -724.371 Z" stroke="none"/>
-      </g>
-    </g>
     <g id="y.edge.2">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="gray" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="gray" stroke-miterlimit="1.45">
         <path fill="none" d="M271.2562 -581.9817 L268.8889 -582.4815 L255.0564 -585.8076 L242.1875 -589.4375 L230.4748 -593.432 L220.1111 -597.8519 L211.2891 -602.7578 L204.2014 -608.2106 L199.0408 -614.2711 L196 -621 L195.2075 -628.4378 L196.5347 -636.544 L199.7891 -645.2578 L204.7778 -654.5185 L211.3082 -664.2653 L219.1875 -674.4375 L228.2231 -684.9742 L238.2222 -695.8148 L248.9922 -706.8984 L260.3403 -718.1644 L272.0738 -729.5518 L274.5716 -731.9495"/>
@@ -567,6 +564,12 @@
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="gray" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="gray" stroke-miterlimit="1.45">
         <path fill="none" d="M325.3102 -597.5712 L325.25 -597.875 L324.353 -602.0909 L323.4074 -606.1852 L322.4062 -610.1406 L321.3426 -613.9398 L320.2095 -617.5654 L319 -621 L318.8936 -621.2666 L318.8526 -621.3578"/>
         <path d="M317.3407 -625.061 L314.8095 -615.3867 L319.2306 -620.4319 L325.9194 -619.9223 Z" stroke="none"/>
+      </g>
+    </g>
+    <g id="y.edge.8">
+      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="gray" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="gray" stroke-miterlimit="1.45">
+        <path fill="none" d="M144.6205 -326.238 L139.4609 -332.0547 L130.4815 -342.9259 L122.2451 -353.9569 L114.9375 -365.1875 L108.7445 -376.6577 L103.8519 -388.4074 L100.4453 -400.4766 L98.7106 -412.9051 L98.8336 -425.7329 L101 -439 L105.3336 -452.7329 L111.7106 -466.9051 L119.9453 -481.4766 L129.8519 -496.4074 L141.2445 -511.6577 L153.9375 -527.1875 L167.7451 -542.9569 L182.4815 -558.9259 L197.9609 -575.0547 L213.9977 -591.3032 L230.406 -607.6317 L241.3046 -618.382"/>
+        <path d="M247 -624 L234.9456 -619.1327 L240.5926 -617.6797 L241.9681 -612.0134 Z" stroke="none"/>
       </g>
     </g>
     <g id="y.edge.33">
@@ -593,7 +596,7 @@
         <path d="M457.8122 -737.5791 L446.0435 -732.0567 L451.7618 -730.9163 L453.4466 -725.334 Z" stroke="none"/>
       </g>
     </g>
-    <g id="y.node.30">
+    <g id="y.node.31">
       <g>
         <g font-size="17px" stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" font-weight="bold" stroke-miterlimit="1.45">
           <text x="234.5149" xml:space="preserve" y="36.4282" stroke="none">Source Framework</text>
@@ -603,7 +606,7 @@
         <rect x="95" y="18.6484" fill="none" width="458.75" rx="4" ry="4" height="250.4141"/>
       </g>
     </g>
-    <g id="y.node.31">
+    <g id="y.node.32">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,204,0)" stroke-miterlimit="1.45">
         <rect fill="none" x="110.25" width="117.5" height="52.5" y="57.4375"/>
       </g>
@@ -614,7 +617,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.32">
+    <g id="y.node.33">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,204,0)" stroke-miterlimit="1.45">
         <rect fill="none" x="265.75" width="117.5" height="52.5" y="57.4375"/>
       </g>
@@ -624,8 +627,8 @@
         </g>
       </g>
     </g>
-    <g id="y.node.33">
-      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
+    <g id="y.node.34">
+      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="3" stroke-miterlimit="1.45">
         <rect fill="none" x="110.25" width="117.5" height="52.5" y="129.5"/>
       </g>
       <g>
@@ -635,8 +638,8 @@
         </g>
       </g>
     </g>
-    <g id="y.node.34">
-      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
+    <g id="y.node.35">
+      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="3" stroke-miterlimit="1.45">
         <rect fill="none" x="265.75" width="117.5" height="52.5" y="129.5"/>
       </g>
       <g>
@@ -645,7 +648,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.35">
+    <g id="y.node.36">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,204,0)" stroke-miterlimit="1.45">
         <rect fill="none" x="413.25" width="117.5" height="52.5" y="57.4375"/>
       </g>
@@ -656,7 +659,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.36">
+    <g id="y.node.37">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(153,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(153,204,0)" stroke-width="5" stroke-miterlimit="1.45">
         <rect fill="none" x="413.25" width="117.5" height="52.5" y="129.5"/>
       </g>
@@ -666,7 +669,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.37">
+    <g id="y.node.38">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(255,204,0)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(255,204,0)" stroke-miterlimit="1.45">
         <rect fill="none" x="110.25" width="117.5" height="52.5" y="201.5625"/>
       </g>
@@ -676,7 +679,7 @@
         </g>
       </g>
     </g>
-    <g id="y.node.38">
+    <g id="y.node.39">
       <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="lime" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="lime" stroke-width="7" stroke-miterlimit="1.45">
         <rect fill="none" x="265.75" width="117.5" height="52.5" y="201.5625"/>
       </g>
@@ -687,10 +690,21 @@
         </g>
       </g>
     </g>
+    <g id="y.node.48">
+      <g stroke-linecap="butt" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,153,102)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" stroke="rgb(51,153,102)" stroke-width="3" stroke-miterlimit="1.45">
+        <rect fill="none" x="413.25" width="117.5" height="52.5" y="201.5625"/>
+      </g>
+      <g>
+        <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" font-family="sans-serif" transform="matrix(1,0,0,1,-80,844)" stroke-linecap="butt">
+          <text x="449.8867" xml:space="preserve" y="224.9824" stroke="none">Testing</text>
+          <text x="438.3496" xml:space="preserve" y="238.9512" stroke="none">Framework</text>
+        </g>
+      </g>
+    </g>
     <g id="y.node.40">
       <g>
         <g stroke-linecap="butt" font-size="15px" transform="matrix(1,0,0,1,-80,844)" fill="rgb(51,51,51)" text-rendering="geometricPrecision" font-family="sans-serif" shape-rendering="geometricPrecision" font-style="italic" stroke="rgb(51,51,51)" font-weight="bold" stroke-miterlimit="1.45">
-          <text x="350.8571" xml:space="preserve" y="559.7616" stroke="none">Legend</text>
+          <text x="350.8571" xml:space="preserve" y="555.7616" stroke="none">Legend</text>
         </g>
       </g>
       <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" stroke-dasharray="6,2" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-80,844)" stroke-linecap="butt">
@@ -778,22 +792,21 @@
     </g>
     <g visibility="hidden" id="tooltip.y.node.9" pointer-events="none">
       <g fill="rgb(195,212,232)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" font-family="sans-serif" stroke="rgb(195,212,232)">
-        <rect x="0" width="920" height="182" y="0" clip-path="url(#clipPath3)" stroke="none"/>
-        <text fill="black" x="4" xml:space="preserve" y="13" clip-path="url(#clipPath3)" stroke="none">The Inexor Tree is the unit of two contemplary APIs on C++ (Inexor Core) and NodeJS-side (Inexor Flex) to access a shared set of variables.</text>
-        <text fill="black" x="4" xml:space="preserve" y="28" clip-path="url(#clipPath3)" stroke="none"> </text>
-        <text fill="black" x="4" xml:space="preserve" y="43" clip-path="url(#clipPath3)" stroke="none"> </text>
-        <text fill="black" x="4" xml:space="preserve" y="58" clip-path="url(#clipPath3)" stroke="none">Additionally the Inexor Tree can be synchronized in the future with distributed PCs, of which some can interact as master, some as slave.</text>
-        <text fill="black" x="4" xml:space="preserve" y="73" clip-path="url(#clipPath3)" stroke="none"> </text>
-        <text fill="black" x="4" xml:space="preserve" y="88" clip-path="url(#clipPath3)" stroke="none">On all sites reactions on state changes of the tree can be attached to the variables.</text>
-        <text fill="black" x="4" xml:space="preserve" y="103" clip-path="url(#clipPath3)" stroke="none"> </text>
-        <text fill="black" x="4" xml:space="preserve" y="118" clip-path="url(#clipPath3)" stroke="none">But some are reserved for higher priority members of the playerbase (admins, moderators, server owners, local players).</text>
-        <text fill="black" x="4" xml:space="preserve" y="133" clip-path="url(#clipPath3)" stroke="none"> </text>
-        <text fill="black" x="4" xml:space="preserve" y="148" clip-path="url(#clipPath3)" stroke="none">Each Variable of the Tree is automatically synced with remote Inexor Core and Inexor Flex versions as well by default. Yet they can always opt-out.</text>
-        <text fill="black" x="4" xml:space="preserve" y="163" clip-path="url(#clipPath3)" stroke="none"> </text>
-        <text fill="black" x="4" xml:space="preserve" y="178" clip-path="url(#clipPath3)" stroke="none">Version: v1</text>
+        <rect x="0" width="920" height="167" y="0" clip-path="url(#clipPath4)" stroke="none"/>
+        <text fill="black" x="4" xml:space="preserve" y="13" clip-path="url(#clipPath4)" stroke="none">The Inexor Tree is the unit of two contemplary APIs on C++ (Inexor Core) and NodeJS-side (Inexor Flex) to access a shared set of variables.</text>
+        <text fill="black" x="4" xml:space="preserve" y="28" clip-path="url(#clipPath4)" stroke="none"> </text>
+        <text fill="black" x="4" xml:space="preserve" y="43" clip-path="url(#clipPath4)" stroke="none"> </text>
+        <text fill="black" x="4" xml:space="preserve" y="58" clip-path="url(#clipPath4)" stroke="none">Additionally the Inexor Tree can be synchronized in the future with distributed PCs, of which some can interact as master, some as slave.</text>
+        <text fill="black" x="4" xml:space="preserve" y="73" clip-path="url(#clipPath4)" stroke="none"> </text>
+        <text fill="black" x="4" xml:space="preserve" y="88" clip-path="url(#clipPath4)" stroke="none">On all sites reactions on state changes of the tree can be attached to the variables.</text>
+        <text fill="black" x="4" xml:space="preserve" y="103" clip-path="url(#clipPath4)" stroke="none">But some are reserved for higher priviledged players (admins, moderators, server owners, local players).</text>
+        <text fill="black" x="4" xml:space="preserve" y="118" clip-path="url(#clipPath4)" stroke="none"> </text>
+        <text fill="black" x="4" xml:space="preserve" y="133" clip-path="url(#clipPath4)" stroke="none">Each Variable of the Tree is automatically synced with remote Inexor Core and Inexor Flex versions as well by default. Yet they can always opt-out.</text>
+        <text fill="black" x="4" xml:space="preserve" y="148" clip-path="url(#clipPath4)" stroke="none"> </text>
+        <text fill="black" x="4" xml:space="preserve" y="163" clip-path="url(#clipPath4)" stroke="none">Version: v1</text>
       </g>
       <g fill="rgb(49,106,196)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" font-family="sans-serif" stroke="rgb(49,106,196)">
-        <path d="M0 0 L920 0 L920 182 L0 182 L0 0 ZM1 1 L919 1 L919 181 L1 181 L1 1 Z" fill-rule="evenodd" clip-path="url(#clipPath3)" stroke="none"/>
+        <path d="M0 0 L920 0 L920 167 L0 167 L0 0 ZM1 1 L919 1 L919 166 L1 166 L1 1 Z" fill-rule="evenodd" clip-path="url(#clipPath4)" stroke="none"/>
       </g>
     </g>
   </g>

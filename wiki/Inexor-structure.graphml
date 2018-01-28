@@ -80,7 +80,7 @@
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="52.5" width="117.5" x="421.25" y="465.81249999999994"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#339966" type="line" width="5.0"/>
+              <y:BorderStyle color="#339966" type="line" width="4.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="105.37890625" x="6.060546875" y="17.265625">Source Structure<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
@@ -203,9 +203,11 @@ Framework<y:LabelModel>
           <data key="d5"><![CDATA[The Inexor Tree is the unit of two contemplary APIs on C++ (Inexor Core) and NodeJS-side (Inexor Flex) to access a shared set of variables.<br />
 
 Additionally the Inexor Tree can be synchronized in the future with distributed PCs, of which some can interact as master, some as slave.<br />
-On all sites reactions on state changes of the tree can be attached to the variables.<br />
-But some are reserved for higher priority members of the playerbase (admins, moderators, server owners, local players). <br />
-Each Variable of the Tree is automatically synced with remote Inexor Core and Inexor Flex versions as well by default. Yet they can always opt-out.<br />
+On all sites reactions on state changes of the tree can be attached to the variables.
+But some are reserved for higher priviledged players (admins, moderators, server owners, local players).
+
+Each Variable of the Tree is automatically synced with remote Inexor Core and Inexor Flex versions as well by default. Yet they can always opt-out.
+
 Version: v1]]></data>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
@@ -673,7 +675,7 @@ Framework<y:LabelModel>
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="52.5" width="117.5" x="110.25" y="129.49999999999997"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#99CC00" type="line" width="5.0"/>
+              <y:BorderStyle color="#339966" type="line" width="3.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="68.3359375" x="24.58203125" y="10.28125">Filesystem
 Access<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
@@ -690,7 +692,7 @@ Access<y:LabelModel>
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="52.5" width="117.5" x="265.75" y="129.49999999999997"/>
               <y:Fill hasColor="false" transparent="false"/>
-              <y:BorderStyle color="#99CC00" type="line" width="5.0"/>
+              <y:BorderStyle color="#339966" type="line" width="3.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="98.8046875" x="9.34765625" y="17.265625">Data Structures<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
@@ -767,10 +769,26 @@ Generator<y:LabelModel>
             </y:GenericNode>
           </data>
         </node>
+        <node id="n4::n8">
+          <data key="d6">
+            <y:GenericNode configuration="com.yworks.sbgn.Submap">
+              <y:Geometry height="52.5" width="117.5" x="413.25" y="201.56249999999994"/>
+              <y:Fill hasColor="false" transparent="false"/>
+              <y:BorderStyle color="#339966" type="line" width="3.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="center" visible="true" width="71.30078125" x="23.099609375" y="10.28125">Testing
+Framework<y:LabelModel>
+                  <y:SmartNodeLabelModel distance="4.0"/>
+                </y:LabelModel>
+                <y:ModelParameter>
+                  <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
+                </y:ModelParameter>
+              </y:NodeLabel>
+            </y:GenericNode>
+          </data>
+        </node>
       </graph>
     </node>
     <node id="n5" yfiles.foldertype="group">
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -778,7 +796,7 @@ Generator<y:LabelModel>
               <y:Geometry height="157.46163723718792" width="343.7276624712548" x="210.0223375287452" y="539.8382362844941"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="15" fontStyle="bolditalic" hasBackgroundColor="false" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#333333" verticalTextPosition="bottom" visible="true" width="66.05810546875" x="138.8347785012524" y="4.0">Legend</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="bolditalic" hasBackgroundColor="false" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#333333" verticalTextPosition="bottom" visible="true" width="66.05810546875" x="138.8347785012524" y="0.0">Legend</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -788,7 +806,7 @@ Generator<y:LabelModel>
               <y:Geometry height="80.0" width="80.0" x="458.75" y="560.0"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="3.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.39453125" x="19.302734375" y="4.0">LABEL</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="41.39453125" x="19.302734375" y="0.0">LABEL</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="80.0" closedWidth="80.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -799,7 +817,6 @@ Generator<y:LabelModel>
       </data>
       <graph edgedefault="directed" id="n5:">
         <node id="n5::n0">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="19.218670170827863" width="210.5303968462548" x="328.2196031537452" y="576.2991737844941"/>
@@ -816,7 +833,6 @@ Generator<y:LabelModel>
           </data>
         </node>
         <node id="n5::n1">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="19.218670170827863" width="210.5303968462548" x="328.2196031537452" y="601.9431103810775"/>
@@ -833,7 +849,6 @@ Generator<y:LabelModel>
           </data>
         </node>
         <node id="n5::n2">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="19.218670170827863" width="210.5303968462548" x="328.2196031537452" y="631.4587752956636"/>
@@ -850,7 +865,6 @@ Generator<y:LabelModel>
           </data>
         </node>
         <node id="n5::n3">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="19.218670170827863" width="210.5303968462548" x="328.2196031537452" y="663.0812033508541"/>
@@ -867,7 +881,6 @@ Generator<y:LabelModel>
           </data>
         </node>
         <node id="n5::n4">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="13.240178712220768" width="15.0" x="238.2196031537452" y="614.59375"/>
@@ -884,7 +897,6 @@ Generator<y:LabelModel>
           </data>
         </node>
         <node id="n5::n5">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="13.240178712220768" width="15.0" x="291.2196031537452" y="582.2776652431012"/>
@@ -901,7 +913,6 @@ Generator<y:LabelModel>
           </data>
         </node>
         <node id="n5::n6">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.sbgn.Submap">
               <y:Geometry height="13.240178712220768" width="60.0" x="238.2196031537452" y="623.3799106438896"/>
@@ -920,7 +931,6 @@ Generator<y:LabelModel>
       </graph>
     </node>
     <edge id="n3::e0" source="n3::n0" target="n3::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -932,7 +942,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n3::e1" source="n3::n0" target="n3::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -944,7 +953,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n3::e2" source="n3::n0" target="n3::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-45.51852720105285" ty="22.5">
@@ -956,7 +964,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n3::e3" source="n3::n0" target="n3::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -968,7 +975,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e0" source="n2::n2" target="n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -980,7 +986,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e1" source="n2::n2" target="n3::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-18.734744426701724" ty="26.27770389125999">
@@ -992,7 +997,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e0" source="n2::n2" target="n2::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1004,7 +1008,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e1" source="n2::n0" target="n2::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1015,12 +1018,11 @@ Generator<y:LabelModel>
         </y:SplineEdge>
       </data>
     </edge>
-    <edge id="e2" source="n2::n0" target="n3::n1">
-      <data key="d9"/>
+    <edge id="e2" source="n2::n0" target="n3::n4">
       <data key="d10">
         <y:SplineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-43.86281878961563" ty="26.253063384201027">
-            <y:Point x="101.95698291721419" y="-406.9390591327201"/>
+          <y:Path sx="0.0" sy="0.0" tx="-52.4447788923172" ty="26.251712453485652">
+            <y:Point x="101.95698291721419" y="-439.20447831800266"/>
           </y:Path>
           <y:LineStyle color="#808080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1028,7 +1030,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e2" source="n2::n0" target="n2::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1040,7 +1041,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e3" source="n2::n0" target="n2::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-58.75747060089793" ty="15.758080894821262">
@@ -1052,7 +1052,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e4" source="n2::n3" target="n2::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1064,7 +1063,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e5" source="n2::n3" target="n2::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1076,7 +1074,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e6" source="n2::n3" target="n2::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1088,7 +1085,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e7" source="n2::n6" target="n2::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1098,7 +1094,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e8" source="n2::n1" target="n2::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1110,7 +1105,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e9" source="n2::n3" target="n2::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1122,7 +1116,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e10" source="n2::n5" target="n2::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1132,7 +1125,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e11" source="n2::n5" target="n2::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1142,7 +1134,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e3" source="n2::n5" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-72.77523022339182" ty="26.89453125"/>
@@ -1152,7 +1143,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e4" source="n2" target="n2::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="-42.24839133645975" sy="25.428279262826237" tx="0.0" ty="0.0"/>
@@ -1162,7 +1152,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e5" source="n2" target="n2::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="-42.96401637406862" sy="53.71159235367427" tx="0.0" ty="0.0"/>
@@ -1172,7 +1161,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e6" source="n2::n3" target="n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1180,13 +1168,12 @@ Generator<y:LabelModel>
             <y:Point x="551.5207579500641" y="-420.0"/>
             <y:Point x="510.0" y="-480.0"/>
           </y:Path>
-          <y:LineStyle color="#C0C0C0" type="line" width="1.0"/>
+          <y:LineStyle color="#808080" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
         </y:SplineEdge>
       </data>
     </edge>
     <edge id="e7" source="n2::n1" target="n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1196,7 +1183,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e8" source="n2::n4" target="n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1206,7 +1192,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e9" source="n2::n6" target="n3::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1218,7 +1203,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e12" source="n2::n5" target="n2::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1230,7 +1214,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e10" source="n2::n5" target="n3::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="58.7799072265625" sy="0.0" tx="0.0" ty="0.0">
@@ -1242,7 +1225,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e13" source="n2::n5" target="n2::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1252,7 +1234,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="e11" source="n2::n5" target="n3::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1264,7 +1245,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e14" source="n2::n5" target="n2::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="-50.28501620113036" ty="26.22080991896223">
@@ -1276,7 +1256,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n2::e15" source="n2::n6" target="n2::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1288,7 +1267,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n3::e4" source="n3::n5" target="n3::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1300,7 +1278,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n3::e5" source="n3::n4" target="n3::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="17.793346649144382" ty="10.530307840554087">
@@ -1312,7 +1289,6 @@ Generator<y:LabelModel>
       </data>
     </edge>
     <edge id="n5::e0" source="n5::n4" target="n5::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:SplineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
